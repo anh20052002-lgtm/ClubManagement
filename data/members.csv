@@ -1,0 +1,32 @@
+type,id,fullName,email,phone,className,department,joinDate,status,position
+MEMBER,TV001,Nguyễn Văn An,an.nguyen@gmail.com,0901000001,D23CQCN01,Nội dung,01/07/2026,ACTIVE,
+EXECUTIVE,TV002,Trần Thị Bình,binh.tran@gmail.com,0901000002,D23CQCN02,Sự kiện,02/07/2026,ACTIVE,Chủ nhiệm
+MEMBER,TV003,Lê Văn Cường,cuong.le@gmail.com,0901000003,D23CQCN03,Kỹ thuật,03/07/2026,ACTIVE,
+MEMBER,TV004,Phạm Thị Dung,dung.pham@gmail.com,0901000004,D23CQCN04,Truyền thông,04/07/2026,ACTIVE,
+EXECUTIVE,TV005,Hoàng Minh Đức,duc.hoang@gmail.com,0901000005,D23CQCN05,Đối ngoại,05/07/2026,ACTIVE,Phó chủ nhiệm
+MEMBER,TV006,Vũ Ngọc Hà,ha.vu@gmail.com,0901000006,D23CQCN01,Nhân sự,06/07/2026,INACTIVE,
+MEMBER,TV007,Đỗ Quang Huy,huy.do@gmail.com,0901000007,D23CQCN02,Nội dung,07/07/2026,ACTIVE,
+EXECUTIVE,TV008,Bùi Thu Hương,huong.bui@gmail.com,0901000008,D23CQCN03,Nội dung,08/07/2026,ACTIVE,Trưởng ban Nội dung
+MEMBER,TV009,Ngô Minh Khang,khang.ngo@gmail.com,0901000009,D23CQCN04,Sự kiện,09/07/2026,ACTIVE,
+MEMBER,TV010,Dương Thị Lan,lan.duong@gmail.com,0901000010,D23CQCN05,Truyền thông,10/07/2026,ACTIVE,
+EXECUTIVE,TV011,Đặng Quốc Long,long.dang@gmail.com,0901000011,D23CQCN01,Sự kiện,11/07/2026,ACTIVE,Trưởng ban Sự kiện
+MEMBER,TV012,Phan Hoàng Mai,mai.phan@gmail.com,0901000012,D23CQCN02,Đối ngoại,12/07/2026,INACTIVE,
+MEMBER,TV013,Lý Tuấn Minh,minh.ly@gmail.com,0901000013,D23CQCN03,Kỹ thuật,13/07/2026,ACTIVE,
+MEMBER,TV014,Trịnh Kim Ngân,ngan.trinh@gmail.com,0901000014,D23CQCN04,Nhân sự,14/07/2026,ACTIVE,
+EXECUTIVE,TV015,Mai Đức Nam,nam.mai@gmail.com,0901000015,D23CQCN05,Truyền thông,15/07/2026,ACTIVE,Trưởng ban Truyền thông
+MEMBER,TV016,Nguyễn Thảo Nhi,nhi.nguyen@gmail.com,0901000016,D23CQCN01,Nội dung,16/07/2026,ACTIVE,
+MEMBER,TV017,Trần Minh Phúc,phuc.tran@gmail.com,0901000017,D23CQCN02,Sự kiện,17/07/2026,ACTIVE,
+MEMBER,TV018,Lê Thu Quỳnh,quynh.le@gmail.com,0901000018,D23CQCN03,Đối ngoại,18/07/2026,INACTIVE,
+EXECUTIVE,TV019,Phạm Anh Sơn,son.pham@gmail.com,0901000019,D23CQCN04,Đối ngoại,19/07/2026,ACTIVE,Trưởng ban Đối ngoại
+MEMBER,TV020,Hoàng Minh Trang,trang.hoang@gmail.com,0901000020,D23CQCN05,Truyền thông,20/07/2026,ACTIVE,
+MEMBER,TV021,Vũ Đức Trung,trung.vu@gmail.com,0901000021,D23CQCN01,Kỹ thuật,21/07/2026,ACTIVE,
+MEMBER,TV022,Đỗ Hải Yến,yen.do@gmail.com,0901000022,D23CQCN02,Nhân sự,22/07/2026,ACTIVE,
+MEMBER,TV023,Bùi Gia Bảo,bao.bui@gmail.com,0901000023,D23CQCN03,Nội dung,23/07/2026,ACTIVE,
+MEMBER,TV024,Ngô Khánh Chi,chi.ngo@gmail.com,0901000024,D23CQCN04,Sự kiện,24/07/2026,INACTIVE,
+EXECUTIVE,TV025,Dương Tiến Đạt,dat.duong@gmail.com,0901000025,D23CQCN05,Kỹ thuật,25/07/2026,ACTIVE,Trưởng ban Kỹ thuật
+MEMBER,TV026,Đặng Thu Giang,giang.dang@gmail.com,0901000026,D23CQCN01,Đối ngoại,26/07/2026,ACTIVE,
+MEMBER,TV027,Phan Quốc Khánh,khanh.phan@gmail.com,0901000027,D23CQCN02,Truyền thông,27/07/2026,ACTIVE,
+MEMBER,TV028,Lý Ngọc Linh,linh.ly@gmail.com,0901000028,D23CQCN03,Nhân sự,28/07/2026,ACTIVE,
+EXECUTIVE,TV029,Trịnh Hoàng Nam,nam.trinh@gmail.com,0901000029,D23CQCN04,Nhân sự,29/07/2026,ACTIVE,Trưởng ban Nhân sự
+MEMBER,TV030,Mai Thanh Tâm,tam.mai@gmail.com,0901000030,D23CQCN05,Nội dung,30/07/2026,ACTIVE,
+MEMBER,TV031,Hoàng Nam Anh,anh20052002@gmail.com,0947419301,D23CQAT04-B,Hệ Thống,31/07/2026,ACTIVE,

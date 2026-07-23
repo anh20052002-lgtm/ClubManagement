@@ -1,0 +1,11 @@
+id,name,eventDate,location,description,maxParticipants,status
+SK001,Chào tân sinh viên,15/08/2026,Hội trường A2,Giao lưu và giới thiệu câu lạc bộ,100,UPCOMING
+SK002,Workshop Java OOP,05/08/2026,Phòng B5,Ôn tập lập trình hướng đối tượng,60,UPCOMING
+SK003,Ngày hội tuyển thành viên,28/07/2026,Sân trường,Tuyển thành viên cho các ban,80,UPCOMING
+SK004,Hoạt động thiện nguyện,10/08/2026,Làng trẻ em,Tổ chức hoạt động hỗ trợ cộng đồng,50,UPCOMING
+SK005,Cuộc thi thiết kế poster,22/07/2026,Phòng C201,Thiết kế poster truyền thông câu lạc bộ,40,ONGOING
+SK006,Giải bóng đá câu lạc bộ,22/07/2026,Sân bóng PTIT,Giao lưu thể thao giữa các ban,70,ONGOING
+SK007,Seminar kỹ năng thuyết trình,12/07/2026,Hội trường A1,Rèn luyện kỹ năng trình bày trước đám đông,50,COMPLETED
+SK008,Tham quan doanh nghiệp,18/07/2026,Công ty ABC,Tìm hiểu môi trường làm việc thực tế,30,COMPLETED
+SK009,Đêm nhạc gây quỹ,30/07/2026,Sân khấu ngoài trời,Biểu diễn văn nghệ gây quỹ,120,CANCELLED
+SK010,Cuộc thi lập trình nội bộ,25/07/2026,Phòng máy 2,Thi lập trình giữa các thành viên,40,CANCELLED
