@@ -37,9 +37,9 @@ Mã nguồn được tổ chức theo kiến trúc MVC đơn giản và được
 
 Dữ liệu chính được quản lý bằng Java Collection Framework:
 
-- ArrayList<Member>
-- ArrayList<Event>
-- ArrayList<Registration>
+- 'ArrayList<Member>'
+- 'ArrayList<Event>'
+- 'ArrayList<Registration>'
 
 Dữ liệu được lưu trong ba file CSV:
 
