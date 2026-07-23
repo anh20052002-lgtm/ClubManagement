@@ -27,25 +27,27 @@ Các chức năng chính gồm:
 
 Mã nguồn được tổ chức theo kiến trúc MVC đơn giản và được chia thành các package:
 
-- model: chứa các lớp biểu diễn dữ liệu.
-- view: chứa các lớp giao diện Java Swing.
-- controller: tiếp nhận và điều phối thao tác từ giao diện.
-- service: xử lý nghiệp vụ và kiểm tra dữ liệu.
-- repository: quản lý dữ liệu và đọc ghi file CSV.
-- exception: chứa các ngoại lệ tự định nghĩa.
-- util: chứa các phương thức tiện ích dùng chung.
+- `model`: chứa các lớp biểu diễn dữ liệu.
+- `view`: chứa các lớp giao diện Java Swing.
+- `controller`: tiếp nhận và điều phối thao tác từ giao diện.
+- `service`: xử lý nghiệp vụ và kiểm tra dữ liệu.
+- `repository`: quản lý dữ liệu và đọc ghi file CSV.
+- `exception`: chứa các ngoại lệ tự định nghĩa.
+- `util`: chứa các phương thức tiện ích dùng chung.
 
 Dữ liệu chính được quản lý bằng Java Collection Framework:
 
-- 'ArrayList<Member>'
-- 'ArrayList<Event>'
-- 'ArrayList<Registration>'
+- `ArrayList<Member>`
+- `ArrayList<Event>`
+- `ArrayList<Registration>`
 
 Dữ liệu được lưu trong ba file CSV:
 
+```text
 data/members.csv
 data/events.csv
 data/registrations.csv
+```
 
 ## 2. Hướng dẫn chạy chương trình
 
@@ -59,7 +61,9 @@ Máy tính cần cài đặt:
 
 Lớp chứa phương thức `main` của chương trình là:
 
+```text
 clubmanagement.ClubManagement
+```
 
 ### 2.2. Chạy chương trình bằng NetBeans
 
@@ -74,7 +78,9 @@ Thực hiện theo các bước sau:
 7. Chọn `Clean and Build`.
 8. Chờ cửa sổ Output hiển thị:
 
+```text
 BUILD SUCCESSFUL
+```
 
 9. Nhấp chuột phải vào project.
 10. Chọn `Run`.
@@ -87,7 +93,11 @@ Nếu NetBeans yêu cầu chọn lớp chạy chính:
 2. Chọn `Properties`.
 3. Chọn mục `Run`.
 4. Tại `Main Class`, chọn:
+
+```text
 clubmanagement.ClubManagement
+```
+
 5. Bấm `OK`.
 6. Chạy lại project.
 
@@ -95,19 +105,23 @@ clubmanagement.ClubManagement
 
 Sau khi thực hiện `Clean and Build`, NetBeans tạo file JAR tại:
 
+```text
 dist/ClubManagement.jar
+```
 
 Mở Command Prompt hoặc PowerShell tại thư mục gốc của project.
 
 Chạy lệnh:
 
-bash:
+```bash
 java -jar dist/ClubManagement.jar
+```
 
 Cần chạy lệnh từ thư mục gốc của project để chương trình tìm thấy thư mục `data`.
 
 Cấu trúc thư mục khi chạy:
 
+```text
 ClubManagement
 ├── data
 │   ├── members.csv
@@ -119,6 +133,7 @@ ClubManagement
 ├── build.xml
 ├── manifest.mf
 └── README.md
+```
 
 ### 2.4. Kiểm tra sau khi chạy
 
